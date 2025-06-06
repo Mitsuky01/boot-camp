@@ -14,5 +14,13 @@
     "additionalData": {
       "favoriteLanguage": "Golang"
     }
+  },
+  {
+    "name": "Raditya Tamam",
+    "nim": "2502049353",
+    "studyProgram": "Computer Science",
+    "additionalData": {
+      "favoriteLanguage": ["Python", "JavaScript"]
+    }
   }
 ]
